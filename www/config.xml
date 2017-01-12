@@ -2,7 +2,7 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.sistema_solar_scb"
+        id          = "cat.numancia.jocmobil_dpg"
         versionCode = "1" 
         version     = "0.0.01" >
 	
@@ -10,14 +10,14 @@
 
 	
 
-   <name>Sistema Solar</name>
+   <name> Joc 3r ESO</name>
+<description> 
+	Un joc de mobílfet per David Pons Garcia 3r ESO A 
 
-   <description>
-       Sistema Solar de 2n d'ESO B fet per Sergi Curtu
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="dpons37@iesnumancia.cat">
+       David Pons
     </author>
 
 	<content src="index.html"/>

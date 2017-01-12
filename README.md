@@ -1,4 +1,4 @@
-# 201617_2nB_ESO
+# 201617_3rA_ESO
 
 Repositori projecte 2n ESO B fet per Sergi Curtu
 
